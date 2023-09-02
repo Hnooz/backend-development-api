@@ -2,6 +2,7 @@
 	"name": "backend-development-api",
 	"description": "Learn backend development with node js",
 	"keywords": [ "node", "backend", "api", "freecodecamp" ],
+	"license": "MIT",
 	"author" : "Mohamed Idris",
 	"dependencies": {
 		"express": "^4.14.0"
