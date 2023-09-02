@@ -1,5 +1,6 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "backend-development-api",
+	"description": "Learn backend development with node js",
 	"author" : "Mohamed Idris",
 	"dependencies": {
 		"express": "^4.14.0"
